@@ -42,7 +42,7 @@ h4 {
 }
 
 .inc-exp-container {
-  background-color: #fff;
+  background-color: rgb(31, 30, 30);
   box-shadow: var(--box-shadow);
   padding: 20px;
   display: flex;
@@ -138,7 +138,7 @@ input[type="number"] {
   color: #fff;
   font-size: 20px;
   line-height: 20px;
-  padding: 2px 5px;
+  padding: 10px 5px;
   position: absolute;
   top: 50%;
   left: 0;
